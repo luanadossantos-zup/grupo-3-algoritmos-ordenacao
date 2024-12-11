@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class MergeSort {
     public static void main(String[] args) {
         // Criação de um objeto Scanner para ler a entrada do usuário
         Scanner scanner = new Scanner(System.in);
